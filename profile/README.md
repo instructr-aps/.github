@@ -8,7 +8,7 @@ flowchart LR
     C --- G --- E    
 
     subgraph Database
-    A[MS SQL]
+    A[Azure SQL]
     end
 
     subgraph API
