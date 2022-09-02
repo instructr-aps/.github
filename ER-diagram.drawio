@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T09:02:01.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="V9GAgD4aEC85jVtpoluA" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T09:53:07.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="2dcXL_zQZBOR9d3ETJzD" version="20.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2103" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2103" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -89,7 +89,7 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="444uFP5uBVaKkgUEcH8F-16" value="UUID&#xa;InstructorFeedbackComment&#xa;ClientFeedbackComment&#xa;ClientFeedbackStars" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="444uFP5uBVaKkgUEcH8F-15">
+        <mxCell id="444uFP5uBVaKkgUEcH8F-16" value="UUID&#xa;InstructorFeedbackComment&#xa;ClientRatingComment&#xa;ClientRatingStars" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="444uFP5uBVaKkgUEcH8F-15">
           <mxGeometry y="26" width="170" height="94" as="geometry" />
         </mxCell>
         <mxCell id="444uFP5uBVaKkgUEcH8F-26" value="* ... 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.176;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="444uFP5uBVaKkgUEcH8F-20" target="444uFP5uBVaKkgUEcH8F-16">
