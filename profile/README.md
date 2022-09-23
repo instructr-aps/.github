@@ -16,7 +16,7 @@ flowchart LR
     end
     
     subgraph Frontend
-    E[React Native Frontend] --- F[NativeBase]
+    E[ReactJS Frontend] --- F[Chakra UI]
     end
  
     subgraph Authentication
