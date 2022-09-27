@@ -16,7 +16,7 @@ flowchart LR
     end
     
     subgraph Frontend
-    E[ReactJS Frontend] --- F[Chakra UI]
+    E[ReactJS] --- F[Chakra UI]
     end
  
     subgraph Authentication
