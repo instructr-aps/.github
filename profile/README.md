@@ -37,7 +37,7 @@ graph TD
     D -->|2. Creates Output Asset| F[Output Asset]
     D -->|3. Start Job to encode video| G[Azure Media Services Job]
     E -->|Takes Input Asset to convert| G
-    G -->|Puts converted video and thumbanil in Output Asset| F
+    G -->|Puts converted video and thumbnail in Output Asset| F
 
     subgraph Azure Media Services
     D
