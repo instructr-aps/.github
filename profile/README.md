@@ -6,7 +6,7 @@ flowchart LR
     A --- B
     C --- D[OpenAPI] --- E
     C --- G --- E
-    E -. Upload .-> H --- C
+    E -. Upload Client Video .-> H --- C
     
 
     subgraph Data Storage
@@ -27,7 +27,7 @@ flowchart LR
     end
 ```
 
-### Video Conversion Flow
+### Client Video Upload & Conversion Flow
 ```mermaid
 graph TD
     A[Frontend] -->|Upload video| B(Azure Blob Container named input-videos)
