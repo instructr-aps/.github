@@ -6,7 +6,7 @@ flowchart LR
     A --- B
     C --- D[OpenAPI] --- E
     C --- G --- E
-    E -. Upload Client Video .-> H --- C
+    E -. Upload<br/>Client Video .-> H --- C
     
 
     subgraph Data Storage
